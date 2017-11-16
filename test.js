@@ -1,6 +1,6 @@
 var Pusher = require('pusher-js');
 
-var config = require('config.json');
+var config = require('./config.json');
 
 var socket = new Pusher(config.APP_KEY, {
   authEndpoint: config.authEndpoint,

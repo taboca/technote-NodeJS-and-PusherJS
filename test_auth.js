@@ -1,7 +1,7 @@
 var Pusher     = require('pusher');
 var express    = require('express');
 var bodyParser = require('body-parser');
-var config     = require('config.json');
+var config     = require('./config.json');
 
 var pusher = new Pusher({
   appId   : config.APP_ID,
