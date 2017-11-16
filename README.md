@@ -1,10 +1,6 @@
-# Technote demonstrating a Pusher.JS-based app that subscribes to remote events, such as events generated from another Pusher-based app 
+# Technote demonstrating a Pusher.JS-based app that subscribes to remote events, such as events generated from another Pusher-based app
 
-This technote is intended for developers interested in learning more about the Pusher.com's API. This is not a complete tutorial. Instead, it brings a simple application with two NodeJS-based scripts: One for authentication purposes and other for the subscription function.
-
-## Install
-
-* npm install
+This technote is intended for developers interested in learning more about the Pusher's API. This is not a complete tutorial. Instead, you will be guided straightforwardly to a simple application with two NodeJS-based scripts: One for authentication purposes and other for the subscription function.
 
 ## Get your app credentials
 
@@ -19,3 +15,7 @@ You will need to visit Pusher.com web service to get your app credentials. Once 
   "cluster"      : "REPLACE_CLUSTER_NAME"
 }
 ```
+
+## Install
+
+* npm install
