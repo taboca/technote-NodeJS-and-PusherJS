@@ -2,7 +2,7 @@
 
 This technote is intended for developers interested in learning more about the Pusher's API. This is not a complete tutorial. Instead, you will be guided straightforwardly to a simple application with two NodeJS-based scripts: One for authentication purposes and other for the subscription function.
 
-## Get your app credentials
+## Get your app credentials (from https://dashboard.pusher.com)
 
 You will need to visit Pusher.com web service to get your app credentials. Once you get the data, make sure you edit the config-sample.json and rename it to config.json:
 
