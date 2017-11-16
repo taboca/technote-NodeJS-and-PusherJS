@@ -1,8 +1,8 @@
 { 
-  'APP_ID'  : '3872837778'. 
-  'APP_KEY' : '82938298390ed8',
-  'SECRET'  : '9382938296b3188d1',
-  'authEndpoint' : 'http://www.telasocial.com:5000/pusher/auth',
-  'cluster' : 'mt1' 
+  "APP_ID"  : "3872837778". 
+  "APP_KEY" : "82938298390ed8",
+  "SECRET"  : "9382938296b3188d1",
+  "authEndpoint" : "http://www.telasocial.com:5000/pusher/auth",
+  "cluster" : "mt1" 
 }
 
