@@ -1,4 +1,4 @@
-# Technote demonstrating a Pusher.JS-based app that subscribes to remote Pusher events
+# Technote demonstrating a Pusher.JS-based app that subscribes to remote events, such as events generated from another Pusher-based app 
 
 This technote is intended for developers interested in learning more about the Pusher.com's API. This is not a complete tutorial. Instead, it brings a simple application with two NodeJS-based scripts: One for authentication purposes and other for the subscription function.
 
