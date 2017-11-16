@@ -16,6 +16,8 @@ You will need to visit Pusher.com web service to get your app credentials. Once 
 }
 ```
 
-## Install
+## Architecture requirements and initial installation
 
-* npm install
+* "test_auth.js" — is the authentication system. This JavaScript application will be called from Pusher.com service. This application uses an NPM package named "Pusher" and it exposes the "/pusher/auth" end-point.
+
+* Sample "test.js" will use the NPM package named "Pusher-JS" and will mainly attempt to subscribe to a private channel named "private-channel".
