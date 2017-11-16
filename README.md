@@ -12,10 +12,10 @@ You will need to visit Pusher.com web service to get your app credentials. Once 
 
 ```
 {
-  "APP_ID"  : "REPLACE_APP_ID",
-  "APP_KEY" : "REPLACE_APP_KEY",
-  "SECRET"  : "REPLACE_APP_SECRET",
+  "APP_ID"       : "REPLACE_APP_ID",
+  "APP_KEY"      : "REPLACE_APP_KEY",
+  "SECRET"       : "REPLACE_APP_SECRET",
   "authEndpoint" : "REPLACE_YOUR_URL:5000/pusher/auth",
-  "cluster" : "REPLACE_CLUSTER_NAME"
+  "cluster"      : "REPLACE_CLUSTER_NAME"
 }
 ```
